@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/105126090?v=4" width="140" height="140" alt="Oğuzhan Kaya" />
+<img src="https://github.com/theplot1980.png?size=200" width="140" height="140" alt="Oğuzhan Kaya" />
 
 # Oğuzhan Kaya
 
