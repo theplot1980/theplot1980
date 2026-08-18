@@ -4,7 +4,7 @@
 
 **Electronics · Embedded systems · PCB design**
 
-KiCad ile kart çizerim, mikrodenetleyici yazarım, donanımı çalışır hale getiririm.
+KiCad ve Altium Designer ile kart çizerim, mikrodenetleyici yazarım, donanımı çalışır hale getiririm.
 
 [![GitHub followers](https://img.shields.io/github/followers/theplot1980?style=social)](https://github.com/theplot1980)
 
@@ -14,13 +14,13 @@ KiCad ile kart çizerim, mikrodenetleyici yazarım, donanımı çalışır hale 
 
 ### Şu an
 
-- PCB tasarımı (**KiCad**)
+- PCB tasarımı (**Altium Designer**, **KiCad**)
 - Gömülü yazılım (**PIC18**, **ESP32**, PlatformIO)
 - Analog + dijital donanım prototipleri
 
 ### Araçlar
 
-`KiCad` · `MPLAB / XC8` · `PlatformIO` · `C / C++` · `Python` · `Git`
+`Altium Designer` · `KiCad` · `MPLAB / XC8` · `PlatformIO` · `C / C++` · `Python` · `Git`
 
 ### GitHub
 
