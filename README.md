@@ -10,6 +10,8 @@ PCB çizerim (Altium, KiCad); **Arduino**, **STM32**, PIC ve ESP32 ile gömülü
 
 [![GitHub followers](https://img.shields.io/github/followers/theplot1980?style=social)](https://github.com/theplot1980)
 
+**Mail:** [theplot1980@gmail.com](mailto:theplot1980@gmail.com)
+
 </div>
 
 ---
@@ -21,6 +23,7 @@ PCB çizerim (Altium, KiCad); **Arduino**, **STM32**, PIC ve ESP32 ile gömülü
 - Yazılım dilleri (**C**, **C++**, **Python** / **OpenCV**)
 - Analog + dijital donanım prototipleri
 - Amatör telsiz — çağrı kodu **[TB8DKA](https://www.qrz.com/db/TB8DKA)**
+- İletişim: [theplot1980@gmail.com](mailto:theplot1980@gmail.com)
 
 ### Araçlar
 
