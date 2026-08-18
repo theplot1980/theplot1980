@@ -6,7 +6,7 @@
 
 **Electronics · Embedded systems · PCB design · C / C++ / Python · Amateur radio TB8DKA**
 
-PCB çizerim (Altium, KiCad); **Arduino**, **STM32**, PIC ve ESP32 ile gömülü yazılım yazarım. Kod tarafında **C**, **C++** ve **Python** (**OpenCV**) , çağrı kodum **TB8DKA**.
+PCB  (Altium, KiCad); **Arduino**, **STM32**, PIC ve ESP32 ile gömülü yazılım . Kod tarafında **C**, **C++** ve **Python** (**OpenCV**) , çağrı kodum **TB8DKA**.
 
 [![GitHub followers](https://img.shields.io/github/followers/theplot1980?style=social)](https://github.com/theplot1980)
 
