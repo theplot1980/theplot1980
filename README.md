@@ -2,9 +2,9 @@
 
 # Oğuzhan Kaya
 
-**Electronics · Embedded systems · PCB design**
+**Electronics · Embedded systems · PCB design · C / C++ / Python**
 
-PCB çizerim (Altium, KiCad); **Arduino**, **STM32**, PIC ve ESP32 ile gömülü yazılım yazarım.
+PCB çizerim (Altium, KiCad); **Arduino**, **STM32**, PIC ve ESP32 ile gömülü yazılım yazarım. Kod tarafında **C**, **C++** ve **Python** kullanırım.
 
 [![GitHub followers](https://img.shields.io/github/followers/theplot1980?style=social)](https://github.com/theplot1980)
 
@@ -16,11 +16,12 @@ PCB çizerim (Altium, KiCad); **Arduino**, **STM32**, PIC ve ESP32 ile gömülü
 
 - PCB tasarımı (**Altium Designer**, **KiCad**)
 - Gömülü yazılım (**Arduino**, **STM32**, **PIC18**, **ESP32**, PlatformIO)
+- Yazılım dilleri (**C**, **C++**, **Python**)
 - Analog + dijital donanım prototipleri
 
 ### Araçlar
 
-`Altium Designer` · `KiCad` · `Arduino` · `STM32` · `MPLAB / XC8` · `PlatformIO` · `C / C++` · `Python` · `Git`
+`Altium Designer` · `KiCad` · `Arduino` · `STM32` · `MPLAB / XC8` · `PlatformIO` · `C` · `C++` · `Python` · `Git`
 
 ### GitHub
 
