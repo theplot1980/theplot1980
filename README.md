@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/105126090?v=4" width="140" height="140" alt="Oğuzhan Kaya" />
+
 # Oğuzhan Kaya
 
 **Electronics · Embedded systems · PCB design · C / C++ / Python · Amateur radio TB8DKA**
@@ -27,7 +29,3 @@ PCB çizerim (Altium, KiCad); **Arduino**, **STM32**, PIC ve ESP32 ile gömülü
 ### GitHub
 
 Profil yeni toparlandı. Gerçek projeler geldikçe burada pinlenecek.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theplot1980&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-</p>
